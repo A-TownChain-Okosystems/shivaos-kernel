@@ -1,8 +1,16 @@
-# Changelog — ShivaOS Kernel
+# Changelog — atc-kernel
 
-## Letzte Versionen
+## v3.0.0 — 10.06.2026
+Vollständiger Changelog: https://github.com/A-TownChain-Okosystems/a-townchain-os/blob/main/CHANGELOG.md
 
-- v2.1.0: Call-Depth-Limit, Reentrancy-Guard, P2P Rate-Limit
-- v2.0.0: ATCFS, ATCNet, ShivaConsensus initial
+### Relevante Fixes
 
-Vollständiger Changelog: [a-townchain-os/docs/CHANGELOG.md](https://github.com/A-TownChain-Okosystems/a-townchain-os/blob/main/docs/CHANGELOG.md)
+- Fix #32 Syscall-Tabelle
+
+
+- Fix #28 ShivaOS UI Renderer
+
+
+
+
+- Fix #23 ATCFS Syscall-Interface
